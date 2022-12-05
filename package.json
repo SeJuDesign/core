@@ -50,7 +50,7 @@
         "vrsource-tslint-rules": "6.0.0"
     },
     "dependencies": {
-        "body-parser": "1.19.0",
+        "body-parser": "1.19.2",
         "chokidar": "3.2.1",
         "fs-extra": "8.1.0",
         "glob": "7.1.4",
